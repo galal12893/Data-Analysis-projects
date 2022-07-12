@@ -1,0 +1,1 @@
+this is a quick analysis for the titanic dataset downloaded from the seaborn training datasets.
